@@ -7,6 +7,7 @@ Pertanyaan
 2. Kembalikan program semula dimana inisialisasi iOuter=1. Kemudian perhatikan perulangan dalam, Jika pada sintaks for, inisialisasi i=1 diubah menjadi i=0, apa yang akibatnya? Mengapa bisa demikian?
 3. Jadi, apakah perbedaan kegunaan antara perulangan luar dengan perulangan yang berada didalamnya?
 4. Mengapa perlu ditambahkan sintaks System.out.println(); di bawah perulangan dalam Apa akibatnya jika sintaks tersebut dihilangkan? 5. Silakan commit dan push ke repository Anda.
+5. Silakan commit dan push ke repository Anda. 
 
 
 
@@ -16,3 +17,4 @@ Jawaban
 3. Perulangan luar: Mengatur jumlah baris (vertikal). Perulangan dalam: Mengatur jumlah bintang per baris (horizontal). 
 4. Tujuan: Pindah ke baris baru setelah mencetak 1 baris bintang. 
 Akibat jika dihapus: Semua bintang dicetak dalam 1 baris tanpa pindah baris. 
+5. Commit diselesaikan. 
