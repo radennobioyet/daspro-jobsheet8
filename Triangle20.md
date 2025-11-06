@@ -5,6 +5,7 @@
 Pertanyaan
 1. Perhatikan, apakah output yang dihasilkan dengan nilai N = 5 sudah sesuai dengan tampilan berikut?
 2. Jika belum sesuai, bagian mana saja yang harus diperbaiki/diganti? Jelaskan alasannya.
+3. Silakan lakukan commit dan push hasil perbaikan ke repository Anda.
 
 
 
@@ -36,3 +37,4 @@ public class Triangle20 {
     }
 }
 ```
+3. Commit diselesaikan 
